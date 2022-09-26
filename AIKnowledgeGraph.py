@@ -9,7 +9,7 @@ SELECTED_AI_ENGINE = ZestorHelper.AI_ENGINE_OPENAI
 
 title = 'AI Fuzzy logic systems that are difficult to design'
 
-# Clear out files, create cache directory
+# Clear out file
 ZestorHelper.save_file('knowledge.txt') # default write mode, no content
 
 google_links = ZestorHelper.scrape_google(title) # google first page links
