@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+For example, we can say that President Clinton is tall, and the concept can have a degree of truth of 0.9.He further said that Fuzzy Logic is very useful in low-level machine control especially in consumer appliances.Some special-purpose microprocessors built on Fuzzy Logic perform fuzzy operations on their hardware.Let us now understand Fuzzy Logic in artificial intelligence by looking at its architecture.But, modern developments in Fuzzy Logic have reduced the number of rules in the rule base.These set of rules are also called a knowledge base.Fuzzification This is the step where crisp numbers are converted into fuzzy sets.A crisp set is a set of elements that have identical properties.Based on certain logic, an element can either belong to the set or not.Crisp sets are based on binary logic Yes or No answers.Here, the error signals and physical values are converted into a normalized fuzzy subset.A Fuzzy Logic control system is based on Fuzzy Logic.Common household appliances, such as air-conditioners and washing machines have Fuzzy Control systems within them.
+
+summary:
+
+==========
+
+Fuzzy logic is a system of artificial intelligence that deals with approximate, rather than precise, calculations. It is useful in low-level machine control, especially in consumer appliances. Fuzzification is the process of converting crisp sets (sets of elements with identical properties) into fuzzy sets. A Fuzzy Logic control system is based on Fuzzy Logic and is found in many common household appliances.

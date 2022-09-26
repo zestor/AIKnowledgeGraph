@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+His research interests include data mining, big data, machine learning and databases and workflow systems.Academic Profile    Jitendra Upadhyay Mentor Senior Data scientist  Jitendra Upadhyay is a firm believer in data-driven management who hypothesizes the cause of a problem, finds/collects data, analyzes and researches the hypothesis, and then implements the best solution.His specialties include Deep Learning for NLP, Computer Vision, Genomics and Biomedicine, etc.Sai Charan Tej Kommuri Mentor Product Manager  12+ years of experience in building B2B and B2C products powered by Automation and Machine Learning.Presently, building virtual assistants and chatbots that provide hands-free conversational UX interface to the end-users.Outside of work, he loves researching the history of complex mathematical concepts using Machine Learning and participating in brain-lifting challenges     Mukul Jain Mentor Lead Data Scientist  An experienced Data Science professional working in the financial services industry.
+
+summary:
+
+==========
+
+Jitendra Upadhyay is a senior data scientist with research interests in data mining, big data, machine learning, and databases and workflow systems. He is a firm believer in data-driven management, and his specialties include deep learning for NLP, computer vision, and genomics and biomedicine. Sai Charan Tej Kommuri is a product manager with 12+ years of experience in building B2B and B2C products powered by automation and machine learning. He is currently building virtual assistants and chatbots that provide a hands-free conversational UX interface to end-users. Mukul Jain is a lead data scientist with experience in the financial services industry. He loves researching the history of complex mathematical concepts using machine learning and participating in brain-lifting challenges.

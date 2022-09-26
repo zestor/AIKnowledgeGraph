@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+For example, the temperature control of the Automatic cooling system depends on the room temperature.Hence, various room temperatures are considered as input and the output is achieved through the fuzzy_logic that generates the controlled output.The fuzzy logic controllers working principle is that the output relies on the probability of the inputs state.It works on the outputs decision which is dependent on assumption.Each set includes linguistic variables mentioning the state of the output.Suppose A is a subset of X and every member of A exists in the intervals 0 and 1.Its output depends on the degree of membership of X within the set.Moreover, the fuzzy sets are graphically represented using the membership function.Note that the output depends on the logic of AND operation of the inputs state and also the inputs rate of change.The term Fuzzy means something that is a bit vague.When a situation is vague, the computer may not be able to produce a result that is True or False.As per Boolean Logic, the value 1 refers to True and 0 means False.
+
+summary:
+
+==========
+
+The automatic cooling system's temperature control depends on the room temperature, which is considered as an input. The output is achieved through the use of fuzzy logic, which is a method of decision-making that relies on probability and assumptions. The output of the fuzzy logic controller depends on the degree of membership of the input within a set. The sets are represented graphically using a membership function. The output also depends on the logic of the AND operation of the inputs state and the inputs rate of change.

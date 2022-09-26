@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Read Less       The AI and ML Course program covers all the topics from basic level to advanced levels.I enjoyed the live online classes Read More by NIT Warangal faculty and industry experts.They also have a 24x7 expert support, and lifetime access to materials.Overall the experience was good during the AI online course program.Read Less     Shivam Dutt Deputy Product Manager       I had an exceptional experience pursuing the AI Certification program created by NIT Warangal, conducted by Edureka.I would recommend the AI course program to anyone who is interested in gaining qualifications in the AI-ML domain.Read More Its an 11 months program that went very smoothly and gracefully.Overall, the AI and ML course program is worth your time and money.Read Less     Ishan Mazumder Assistant Manager       PGP in AIML is one of the best AIML courses out there for getting started with AI Certification.The program covers the basics of Deep Learning from scratch along with assignments, tests, and industry-grade capstone projects.
+
+summary:
+
+==========
+
+The AI and ML Course program at NIT Warangal is a comprehensive program that covers all topics from basic to advanced levels. The program includes live online classes conducted by NIT Warangal faculty and industry experts, as well as 24x7 expert support and lifetime access to materials. Overall, the AI online course program is a good experience.

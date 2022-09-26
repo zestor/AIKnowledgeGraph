@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+You will learn to build a CNN model using OpenCV, TensorFlow 2, Keras, Numpy, Pandas, Matplotlib to detect and classify the traffic signals for new self-driving cars.As a machine learning engineer, you will create a model to detect objects using a pre-trained MaskRCNN model.You will be using OpenCV, Tensorflow 2, Keras, Numpy, Pandas, Matplotlib and others.Credit card companies such as Citibank, HSBC, and American Express need to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.In this demo, you have to build a classification model to identify fraudulent credit card transactions.
+
+summary:
+
+==========
+
+This text describes how to build a CNN model using various tools to detect and classify traffic signals for new self-driving cars. The machine learning engineer will create a model to detect objects using a pre-trained MaskRCNN model. Credit card companies need to recognize fraudulent credit card transactions, so the goal is to build a classification model to identify them.

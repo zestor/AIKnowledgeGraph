@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Fuzzy Logics nuances involve using key math concepts like Set Theory and Probability, which makes it apt to solve all kinds of day-to-day challenges that humanity faces.Fuzzy Logic can provide efficient solutions to a very complex problem across different industries.Fuzzy Logic System needs a very little amount of data to prepare a robust model.Therefore, it needs only a limited amount of memory for its execution.As Fuzzy Logic System works with precise and imprecise data, at times, its accuracy can be compromised.Fuzzy Logic System cannot learn from its past mistakes or failures as it doesnt have self-learning ability like Machine Learning and Neural Network.Due to the lack of standardization, there is no one fixed way to find rules and membership functions for the given problem.Therefore, at times it becomes difficult to find exact rules and membership functions for some problems.Conclusion Fuzzy Logic provides an alternative way to approach real-world problems in the computing world.
+
+summary:
+
+==========
+
+Fuzzy Logics are mathematical concepts used to solve real-world problems. They are efficient and do not need a lot of data, but they can be inaccurate. They also lack the ability to learn from mistakes. Fuzzy Logic provides an alternative way to approach problems in the computing world.

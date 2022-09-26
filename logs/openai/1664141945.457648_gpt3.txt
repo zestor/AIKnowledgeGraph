@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Moreover, it is a graph that defines how each point in the input space is mapped to membership value between 0 and 1.The main objective of Membership Functions is to map the non-fuzzy input values to fuzzy linguistic terms, vice versa.These are the widely used fuzzifiers that are known for their simplicity and lower computational requirements, yet they are not always suitable.Hence, other methods like the non-singleton fuzzy logic system are used to account for uncertainty in the data.Improving the efficiency of automatic transmission.Personnel evaluation in large scale organizations.Works with any input types, be it imprecise, distorted, or noisy input information.Efficiently solves complex problems, leveraging its capability to perform human-like reasoning and decision making.The flexibility of fuzzy logic makes it easier to modify FLS by just adding or deleting rules.Therefore, you help you get a thorough understanding of this aspect of Artificial intelligence, listed below are some of its disadvantages.
+
+summary:
+
+==========
+
+The main objective of Membership Functions is to map the non-fuzzy input values to fuzzy linguistic terms, vice versa. These are the widely used fuzzifiers that are known for their simplicity and lower computational requirements, yet they are not always suitable. Hence, other methods like the non-singleton fuzzy logic system are used to account for uncertainty in the data.

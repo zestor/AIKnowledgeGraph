@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+but instead focuses on categorizing the gray areas in the scenarios.It is a computing approach, based on the Degrees of Truth, that incorporates intermediate values like partial truth.Highly suitable for uncertain or approximate reasoning.It views inference as a process of propagating elastic constraints.It helps build nonlinear functions of arbitrary complexity.It might have two values that represent two possible solutions.Moreover, it is the underlying concept that enables Fuzzy Logic Systems to work as per expectations.Thats not all, neural networks, data mining, case-based reasoning, business rules, etc.are other few areas that are profiting from a fuzzy system.An efficient method for performing human-like reasoning, the Fuzzy Logic System relies on Fuzzy Logic to perform reasoning, in conditions with uncertainty and displays complex and uncertain systems.It uses the Theory of Fuzzy sets to map crisp inputs into crisp outputs.The Fuzzy Set Theory performs a gradual assessment of the degree of membership in a set, describing it with the help of the membership function value in the real unit interval (0, 1) the Boolean logic on which the modern computer is based.
+
+summary:
+
+==========
+
+The Fuzzy Logic System is a computing approach that relies on the theory of fuzzy sets to map crisp inputs into crisp outputs. It is highly suitable for uncertain or approximate reasoning, and views inference as a process of propagating elastic constraints. This system helps build nonlinear functions of arbitrary complexity, and is used in areas such as neural networks, data mining, case-based reasoning, and business rules.

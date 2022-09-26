@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+You as a Data Scientist is required to analyze the trend in Global Sales according to the Genres on the Video Games Sales Dataset from 1980 & visualize the change in Net Sales of different publishers from the year 2005 to 2015.As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding.In this demo Explore the Ad click data and use Logistic Regression  to predict who is more likely to click the ad!For example - to categorize personal multimedia collections, for automatic product tagging in online catalogs, and other areas of business and researches.Use CNN and LSTM to create a model that can automatically add captions to the image.Explore the dataset to find the insights and predict the winning probability of the player based on several attributes.The pandemic has spread widely, and the number of cases is rising daily.The government is working to slow down its spread.Web Scrape the data from the official government website and find various insights by comparing the trend of COVID in India as compared to the world.
+
+summary:
+
+==========
+
+The text describes various data analysis and prediction tasks that a data scientist may be required to perform. These include analyzing trends in global sales, predicting click-through rates on ads, and categorizing multimedia collections. The text also describes how to use various machine learning models to carry out these tasks. Finally, the text describes how to use web scraping to collect data on the spread of COVID-19.

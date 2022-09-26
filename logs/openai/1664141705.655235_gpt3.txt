@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Various shapes that can be used, such as Trapezoid, Gaussian, Sigmoid, or user definable.By changing the shape of the membership function, the user can tune the system to provide optimum response.Now that we have our membership functions defined, we can create the rules that will define how the membership functions will be applied to the final system.If HOT then FAST If WARM then MEDIUM If COLD then SLOW The rules are then applied to the membership functions to produce the crisp output value to drive the system.For simplicity we will illustrate using only two input and two output functions.For an input value of 52 degrees we intersect the membership functions.We see that in this example the intersection will be on both functions, thus two rules are applied.The intersection points are extended to the output functions to produce an intersecting point.The output functions are then truncated at the height of the intersecting points.The area under the curves for each membership function is then added to give us a total area.
+
+summary:
+
+==========
+
+The text describes how to create a rule-based system for controlling a system, using membership functions to produce crisp output values. As an example, if the input value is 52 degrees, two rules are applied and the output functions are truncated at the height of the intersecting points. The area under the curves for each membership function is then added to give us a total area.

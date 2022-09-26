@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+There are many applications that use fuzzy logic, but fail to tell us of its use.Probably the biggest reason is that the term fuzzy logic may have a negative connotation.Fuzzy logic can be applied to non-engineering applications as illustrated in the stock trading application.It has also been used in medical diagnosis systems and in handwriting recognition applications.In fact a fuzzy logic system can be applied to almost any type of system that has inputs and outputs.Fuzzy logic systems are well suited to nonlinear systems and systems that have multiple inputs and multiple outputs.Any reasonable number of inputs and outputs can be accommodated.Fuzzy logic also works well when the system cannot be modeled easily by conventional means.Many engineers are afraid to dive into fuzzy logic due to a lack of understanding.Fuzzy logic does not have to be hard to understand, even though the math behind it can be intimidating, especially to those of us who have not been in a math class for many years.
+
+summary:
+
+==========
+
+Fuzzy logic is a type of logic that can be applied to systems with multiple inputs and outputs, and is especially well suited to nonlinear systems. Many engineers avoid using fuzzy logic due to a lack of understanding, but it does not have to be difficult to understand.

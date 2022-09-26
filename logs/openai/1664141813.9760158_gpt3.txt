@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+I Read More enjoyed my Artificial Intelligence online course during the whole program Read Less     Mrinal Chandra Jha Self Employed       I was a novice, these AI courses got me to a level where I can make sense of various theories and can conduct practical implementation all by myself.I also appreciate the fact that they extended the AI and ML course dates to make Read More sure all topics are covered in detail.Response from the support team was super fast no matter the quarries.Overall, Edureka's PGP AIML course from NIT Warangal was a great journey.Read Less     Chandra Prakash Machine Learning Enthusiast       PGP in AI and Machine Learning is one of the best AI courses out there for getting started with Machine Learning Training.The AI and ML course covers the basics of Deep Learning from scratch along with assignments, tests, and Read More industry-grade capstone projects.Once you enroll in this AI online course program, you will learn everything about AI and Machine Learning Read Less     Sowjanya        I am 85% more confident about cracking the technical interviews, which is positive for my career.
+
+summary:
+
+==========
+
+Edureka's PGP in AI and Machine Learning is one of the best AI courses out there for getting started with Machine Learning Training. The AI and ML course covers the basics of Deep Learning from scratch along with assignments, tests, and industry-grade capstone projects. Once you enroll in this AI online course program, you will learn everything about AI and Machine Learning.

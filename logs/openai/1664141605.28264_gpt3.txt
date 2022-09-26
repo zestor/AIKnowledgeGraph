@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Tax calculation will be finalised during checkout Learn about institutional subscriptions This is a preview of subscription content, access via your institution.The second part consists of papers on new concepts and algorithms for type-2 fuzzy systems, and on applications of type-2 fuzzy systems in diverse areas, such as time series prediction and pattern recognition.In turn, the third part contains papers that present enhancements to meta-heuristics based on fuzzy logic techniques describing new nature-inspired optimization algorithms that use fuzzy dynamic adaptation of parameters.The fourth part presents emergent intelligent models, which range from quantum algorithms to cellular automata.The fifth part explores applications of fuzzy logic in diverse areas of medicine, such as the diagnosis of hypertension and heart diseases.The sixth part describes new computational intelligence algorithms and their applications in different areas of intelligent control, while the seventh examines the use of fuzzy logic in different mathematic models.
+
+summary:
+
+==========
+
+This is a preview of subscription content, access via your institution. This preview contains papers discussing new concepts and algorithms for type-2 fuzzy systems, as well as papers on applications of type-2 fuzzy systems. These papers cover topics such as time series prediction, pattern recognition, meta-heuristics, and quantum algorithms.

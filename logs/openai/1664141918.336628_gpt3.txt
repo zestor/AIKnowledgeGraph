@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+The developers use it to create intent-based chatbots.In this project, we are going to understand some of the most important basic aspects of the Rasa framework and use RASA NLU and RASA CORE to build a conversational chatbot.The owner of the Gnar Automobiles deals with a number of distributors across countries in different origins.As every origin sends cars with various specifications.The owner wants to determine the origin of the cars based on the specifications of the cars to further increase business opportunities.Accurate prediction of CKD progression overtime is necessary for reducing its costs and mortality rates.The dataset is taken over a 2-month period in India.It has 400 rows with 26 features like red blood cells, pedal edema, sugar, etc.Use this to classify whether a patient has chronic kidney disease.Not without reason, it is perfect for almost every situation, from happy hour to large wedding parties.You will be given a data sample collected in So Paulo, Brazil.Use this to predict the quantity of beer consumption based on the features that contain climate conditions of a given day.
+
+summary:
+
+==========
+
+The Rasa framework is used by developers to create intent-based chatbots. In this project, we will use RASA NLU and RASA CORE to build a conversational chatbot. The dataset for this project is taken from India and contains 400 rows with 26 features. The goal is to use this data to predict the quantity of beer consumption based on the climate conditions of a given day.

@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+In this example 44% is the output FAN SPEED value.Figure 3 This is a very simple explanation of how the fuzzy logic systems work.In a real working system, there would be many inputs and possibility several outputs.This would result in a fairly complex set of functions and many more rules.It is not uncommon for there to be 40 or more rules in a system.Even so, the principles remain the same as in our simple system.National Instruments has included in LabVIEW a set of pallet functions and a fuzzy system designer to greatly simplify the task of building a fuzzy logic system.It has included several demo programs in the examples to get started.In the graphical environment, the user can easily see what the effects are as the functions and rules are built and changed.The user should remember that a fuzzy logic system is not a silver bullet for all control system needs.Traditional control methods are still very much a viable solution.In fact they may be combined with fuzzy logic to produce a dynamically changing system.
+
+summary:
+
+==========
+
+This text provides a brief explanation of how fuzzy logic systems work, with a focus on how LabVIEW can be used to simplify the process of building such a system. It is important to note that fuzzy logic is not a cure-all for all control system needs, and that traditional methods may still be combined with fuzzy logic to produce a more dynamic system.

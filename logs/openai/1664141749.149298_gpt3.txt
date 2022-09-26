@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+You can then truncate the output functions at the height of the intersecting points.This was a very simple explanation of how the fuzzy logic systems work.In a real working system, there would be many inputs and the possibility of several outputs.This would result in a fairly complex set of functions and many more rules.With this, we have come to the end of our Fuzzy Logic in AI article.I hope you understood what is fuzzy logic and how it works.Also, check out theAI and Deep Learning with TensorFlowCourseis curated by industry professionals as per the industry requirements & demands.You will master the concepts such as SoftMax function, Autoencoder Neural Networks, Restricted Boltzmann Machine (RBM) and work with libraries like Keras & TFLearn.The course has been specially curated by industry experts with real-time case studies.Got a question for us?Login Please enter a valid emailid Forgot Password?Name* Email ID* Phone Number* Your Total Work Experience* AwesomeWe have recieved your contact details.You will recieve an email from us shortly.
+
+summary:
+
+==========
+
+This text provides a simple explanation of how fuzzy logic systems work. In a real system, there would be many inputs and outputs, resulting in a complex set of functions and rules. With this article, the reader should understand what fuzzy logic is and how it works.

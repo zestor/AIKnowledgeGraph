@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+However, we will do everything to ensure you have a smooth learning experience with us.We will make sure that you learn from one of the best AI courses.We don't allow batch changes as it impacts your learning and career goals.Additionally, batches are monitored by the institute and are run as per their standards.However, in exceptional & well-rooted cases, reach out to your learning manager with your concern.We will make sure that your problem gets resolved quickly.You can attend the live classes of the AI and Machine Learning Certification Courses using a laptop/desktop with basic specifications.Every student enrolling with Edureka will get multiple doubt clearing sessions and 1-on-1 supervised learning sessions.We are committed to help you learn from the best Artificial Intelligence coursess without facing any trouble.Log In Email & Mobile Number Change ankit.pandole@edureka.co +91 987654 543212 Create a Password (min.Sign Up Email  Enter your Email Address above to get a verification code.
+
+summary:
+
+==========
+
+The text describes the commitment of the company to provide a smooth learning experience for their students. They will make sure that students learn from the best AI courses and that they have access to multiple doubt clearing sessions and 1-on-1 supervised learning sessions. In exceptional cases, students can reach out to their learning manager with any concerns.

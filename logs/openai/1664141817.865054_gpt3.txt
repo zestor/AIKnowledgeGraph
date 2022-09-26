@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+I've received more interview calls than ever after I finished this AI and Machine Learning course from Edureka, all thanks to Edureka's Read More PG Programs and the career service team.They put really good effort during this Artificial Intelligence online course Read Less     Abhishek Prasad Machine Learning Enthusiast       I have made a smooth transition from electrical engineering to AI-ML domain thanks to Edurekas Best AI and ML course program in association with E&ICT, NIT Warangal.The knowledge will definitely help me pursue my master's related Read More to computation and data science.The best part about this program is the 24*7 support team which helped me to resolve all my doubts regarding the assignments, tests, and LMS issues.I am happy that I chose this PG Diploma course from Edureka Read Less   AI Courses Instructors and Mentors Course Advisors Mentors Influencers   Dr. DVLN Somayajulu Course Advisor Department of Computer Science and Engineering  Somayajulu, D V L N received his Ph.D from Department of Computer Science & Engineering, IIT, Delhi in 2002 and has been serving as Professor of Computer Science & Engineering since 2006.
+
+summary:
+
+==========
+
+Edureka's AI and Machine Learning course has helped Abhishek Prasad transition from electrical engineering to the AI-ML domain smoothly. He is grateful for the 24/7 support team that helped him resolve doubts and issues related to the coursework. Dr. DVLN Somayajulu, Course Advisor for the Department of Computer Science and Engineering, served as a mentor and influencer throughout the program.

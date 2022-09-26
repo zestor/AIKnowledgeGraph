@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+This controls the speed and traffic in the automotive systems.It is used for decision making support systems and personal evaluation in the large company business.It also controls the pH, drying, chemical distillation process in the chemical industry.Fuzzy logic is used in Natural language processing and various intensive applications in Artificial Intelligence.It is extensively used in modern control systems such as expert systems.Fuzzy Logic mimics how a person would make decisions, only much faster.These were some of the common applications of the Fuzzy Logic.Now, lets have a look at the advantages and disadvantages of using Fuzzy Logic in AI.Advantages & Disadvantages of Fuzzy LogicFuzzy logic provides simple reasoning similar to human reasoning.So the results are perceived based on assumptions and may not be widely accepted It cannot recognize machine learning as-well-as neural network type patterns Validation and Verification of a fuzzy knowledge-based system needs extensive testing with hardware Setting exact, fuzzy rules and, membership functions is a difficult task At times, the fuzzy logic is confused with probability theory So, these were some of the advantages and disadvantages of using fuzzy logic in AI.
+
+summary:
+
+==========
+
+Fuzzy logic is a type of AI that mimics human reasoning. It has many applications, but also some drawbacks. Fuzzy logic is difficult to set up and may not be widely accepted. It also can't recognize certain types of patterns as well as a neural network.

@@ -1,0 +1,6 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+<<TEXT>>
+
+summary:

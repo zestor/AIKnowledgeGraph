@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Lacks a systematic approach to fuzzy system designing.Suitable for problems that dont require high accuracy.It is difficult to set exact, fuzzy rules and membership functions.Incapable of recognizing machine learning and neural network type patterns.Cannot learn from past mistakes or failures, as it lacks self-learning ability.It helps, both, commercial as well as non-commercial machines and systems to deliver, acceptable reasoning, which is further enhanced with the help of deep learning, AI search algorithms, and other such technologies.
+
+summary:
+
+==========
+
+Fuzzy logic is a type of logic that allows for approximate rather than precise reasoning. This makes it suitable for problems that don't require high accuracy but it is difficult to set exact, fuzzy rules and membership functions. Fuzzy logic is also incapable of recognizing machine learning and neural network type patterns. However, it can be enhanced with the help of deep learning, AI search algorithms, and other such technologies.

@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+AI being the most popular career choice, this PGD in AI training is accredited by E&ICT Academy, NIT Warangal helps you boost your career.Anyone who has physics, Chemistry & Mathematics as a subject in 10+2 and holds a degree for BCA, B.Tech, B.E, B.Sc can apply for this course.Before enroll in this program , you should check the Artificial Intelligence course eligibility .After completing this AI course , you will get a high standard AI certification which gives you complete confidence to your placement .Artificial Intelligence is the theory and development of computer systems able to perform tasks usually requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.Machine Learning is a part of Artificial Intelligence that allows machines to learn from data automatically without being programmed.This AI and ML certification course will help you master all the aspects such as Python, Deep Learning, NLP, Sequence Learning, NumPy, Pandas, Data Processing, etc.
+
+summary:
+
+==========
+
+This is a training course for those interested in a career in AI. The course is accredited by E&ICT Academy, NIT Warangal and is open to anyone with a background in physics, chemistry, and mathematics. Upon completion of the course, students will receive a high standard AI certification.

@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+His first commercial tech publication was released worldwide in November 2017, titled, Natural Language Processing with Python - Cookbook with Packt publishing house, UK.Girijesh Prasad Influencer Senior Manager Data ASG  An undaunted Data Scientist with 8+ years of experience, his tremendous technical skills as a DevOps Python Engineer in Python and bash, OOPS in Python, Linux, Unix, VMware ESX, automation on Data Ontap etc has truly gone way above and beyond in achieving his career in various reputed IT and software companies like Netapp and Oracle.Ark Mishra Influencer Manager - Analytics and Machine learning  Ark has 7+ years of industry experience in Data Science, Deep Learning, Artificial Intelligence, Machine Learning, Data Analysis, Risk Analytics, Business Consulting, Statistical Modeling, Credit Risk Modeling.His expertise lies in GPU acceleration of Deep learning Models using NVIDIA GPU and TensorRT.Name* Email ID* Phone Number* +1 After submitting, you will proceed to fill the scholarship form Awesome We have recieved your contact details.
+
+summary:
+
+==========
+
+Girijesh Prasad is a data scientist with 8+ years of experience. His commercial tech publication, Natural Language Processing with Python - Cookbook, was released in November 2017 with Packt publishing house. Ark Mishra is an influencer manager with 7+ years of industry experience in data science, deep learning, artificial intelligence, machine learning, and data analysis.

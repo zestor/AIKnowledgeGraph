@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+You will be provided with game stats that come from matc...   More Details   COVID India Analysis  Live Session   COVID-19 pandemic is the greatest global humanitarian challenge the world has faced since World War II.The pandemic has spread widely, and the number of cases is rising daily.The...   More Details   Traffic Sign Detection  Live Session   Detection and recognition of traffic signs are crucial for the development of self-driving cars, which have a direct impact on driving behaviors.You will learn to build a CNN mode...   More Details   Smart Surveillance System  Live Session   A shopping centre needs a surveillance system to detect persons and other items.As a machine learning engineer, you will create a model to detect objects using a pre-trained MaskR...   More Details   Identify fraudulent credit card transactions  Live Session   Credit card fraud happens when a fraudster or a thief steals your credit card or the information from that card to make unauthorized purchases in your name or take out cash advance...   More Details  AI and Machine Learning Course Admission Process  Enrolment Form Enrolment Form You will be required to provide personal, educational, and professional details.
+
+summary:
+
+==========
+
+The text provides information on various live sessions that will be held on topics related to machine learning and AI. These include sessions onDetecting andrecognizing traffic signs, fraudulent credit card transactions, and identifying objects using a pre-trained Mask R-CNN model.

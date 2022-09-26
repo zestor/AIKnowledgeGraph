@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+These values between 0 and 1 display the range of possibilities.So, in cases where accurate reasoning cannot be provided, Fuzzy Logic provides an acceptable method of reasoning.An algorithm based on Fuzzy Logic takes all available data while solving a problem.It then takes the best possible decision according to the given input.The fuzzy logic AI system regulates the temperature depending on input parameters such as hot, warm, warm, cold, and cold.Build membership functions of temperature variables using fuzzy logic in AI.Make a knowledge base rule incorporating the room temperature matrix and the required room temperature.Obtain the fuzzy rule using fuzzy set operations and fuzzy logic AI.Implementing defuzzification depends on the membership functions to obtain the output variable or the expected temperature.Charles Elkan, Assistant Professor of the Computer Science and Engineering department at the University of California at San Diego, shed some light upon Fuzzy Logic.Fuzzy Logic can be used for vague concepts, such as the characteristic of tallness.
+
+summary:
+
+==========
+
+Fuzzy logic is a method of reasoning that provides an acceptable solution when accurate reasoning cannot be provided. It is an algorithm that takes all available data into account and makes the best possible decision according to the given input. In AI, fuzzy logic is used to regulate temperature depending on input parameters. It is also used for vague concepts such as the characteristic of tallness.

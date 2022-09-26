@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Fuzzy logic is a rule-based system that can rely on the practical experience of an operator, particularly useful to capture experienced operator knowledge.By Norm Dingle November 4, 2011 Facebook Twitter LinkedIn Email Fuzzy logic is not as fuzzy as you might think and has been working quietly behind the scenes for more than 20 years in more places than most admit.Fuzzy logic is a rule-based system that can rely on the practical experience of an operator, particularly useful to capture experienced operator knowledge.Since it is performing a form of decision making, it can be loosely included as a member of the AI software toolkit.Heres what you need to know to consider using fuzzy logic to help solve your next application.Since that time the Japanese have traditionally been the largest producer of fuzzy logic applications.Fuzzy logic has appeared in cameras, washing machines, and even in stock trading applications.In the last decade the United States has started to catch on to the use of fuzzy logic.
+
+summary:
+
+==========
+
+Fuzzy logic is a rule-based system that can take into account the experience of an operator. It has been in use for over 20 years, mostly in Japan, but is becoming more popular in the US. It has a wide range of applications, from cameras to stock trading.

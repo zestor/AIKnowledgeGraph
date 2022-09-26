@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Teams    Create free Team  Teams Q&A for work Connect and share knowledge within a single location that is structured and easy to search.Learn more about Teams  Are there real applications of fuzzy logic?This question is also very related, but the answers are focused more on general intuition and potential applicability.The only working system based on fuzzy logic, mentioned there, is MYCIN, which goes back to the early 70s.From my experience in AI, the best tool to deal with uncertainty is Bayesian probability and inference.It allows to apply not only a wide range of probabilistic tools, such as expectation, MLE, cross-entropy, etc, but also calculus and algebra.Can you call fuzzy logic a "pure theoretical" concept, which only played its role in the early development of AI?Are there real practical applications of fuzzy logic?What problem would you recommend to solve and to code using fuzzy logic?I found an interesting article on the subject from 1997.Previously, engineers spent much time creating mathematical models of mechanical systems.
+
+summary:
+
+==========
+
+Fuzzy logic is a mathematical concept that allows for the representation of uncertainty. It played an important role in the early development of artificial intelligence (AI), but its practical applications are somewhat limited. Bayesian probability is a more robust tool for dealing with uncertainty, and is now more commonly used in AI applications.

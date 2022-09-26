@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+You can modify a FLS by just adding or deleting rules due to flexibility of fuzzy logic.Fuzzy logic Systems can take imprecise, distorted, noisy input information.Fuzzy logic is a solution to complex problems in all fields of life, including medicine, as it resembles human reasoning and decision making.Disadvantages of FLSs There is no systematic approach to fuzzy system designing.They are suitable for the problems which do not need high accuracy.We make use of First and third party cookies to improve our user experience.By using this website, you agree with our Cookies Policy.
+
+summary:
+
+==========
+
+Fuzzy logic systems (FLSs) are flexible and can be easily modified by adding or deleting rules. They are also able to handle imprecise, distorted, and noisy input information. FLSs are suitable for problems that do not require high accuracy.

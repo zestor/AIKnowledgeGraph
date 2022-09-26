@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+To prepare the learner on what to expect from the program and help them understand their AI ML courses objectives.AI ML Career-Oriented Webinars Month 1 to Month 9 In our AI ML courses, you will have over 20+ live and interactive webinar sessions with an industry expert to gain knowledge, insights, and experience from a seasoned career mentor on developing self-awareness and understanding of the expectations of a hiring manager.Profile Building Assistance Month 6 In the Artificial Intelligence course online by Edureka, you will get expert tips and advice on creating an attractive and relevant resume and LinkedIn profile that guarantees effectiveness.Includes guidance, hand-holding, feedback up to 3 iterations from a Dedicated Career Coach.Exhaustive Interview Prep Month 8 As the AI ML courses are towards the end, many emphases are laid on how to crack the interviews.A learner will get expert tips, sample technical and non-technical interview questions, and advice on preparing for an AI interview or ML interview.
+
+summary:
+
+==========
+
+The Artificial Intelligence course online by Edureka includes live and interactive webinar sessions with an industry expert, guidance on creating an effective resume and LinkedIn profile, and advice on preparing for an AI interview.

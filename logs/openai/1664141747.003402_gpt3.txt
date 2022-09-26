@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+A set of rules is then applied to the membership functions to yield a crisp output value.Lets take an example of process control and understand fuzzy logic.Step 1Here, Temperature is the input and Fan Speed is the output.You have to create a set of membership functions for each input.A membership function is simply a graphical representation of the fuzzy variable sets.For this example, we will use three fuzzy sets, Cold, Warm and Hot.A set of functions is created for each output set just as for the input sets.Step 3Now that we have our membership functions defined, we can create the rules that will define how the membership functions will be applied to the final system.If Hot then Fast If Warm then Medium And, if Cold then SlowThese rules apply to the membership functions to produce the crisp output value to drive the system.Thus, for an input value of 52 degrees, we intersect the membership functions.Here, we are applying two rules as the intersection occurs on both functions.You can extend the intersection points to the output functions to produce an intersecting point.
+
+summary:
+
+==========
+
+Fuzzy logic is a method of reasoning that allows for imprecise or incomplete information. It can be used to create rules that will produce a crisp output value from membership functions. In the example given, temperature is the input and fan speed is the output. Three membership functions are used for the input (cold, warm, hot) and three are used for the output (slow, medium, fast). The rules that are applied to the membership functions produce the output value. For an input value of 52 degrees, the two rules that are applied produce an output of medium.

@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+In addition, he has served as Chair of Electronics & ICT Academy at NIT, Warangal during 2016-19.Currently, he is Director, IIIT, Design and Manufacturing, Kurnool, AP.Academic Profile    Dr. V Ravindranath Course Advisor Department of Computer Science and Engineering  Prof. Ravindranath worked as Director of Admissions of JNTU Kakinada during 2013-2016 and at present he is working as HOD of Mathematics Department.He has guided three students for Ph.D. and many students for M.Phil, degrees in the areas of Operations Research and Statistics.He has published many papers in national and international journals and co-authored a text book on "Mathematical Methods" for engineering students.Prof. Ravindranath is a resource person for many faculty development programs sponsored by UGC, DST, TEQIP etc.organized at NIT, Warangal and other engineering colleges.His area of research is Operations Research and Decision Sciences.Dr. RBV Subramaanyam Course Advisor Department of Computer Science and Engineering  Dr. R.B.V Subramaanyam did his M.Tech & Ph.D. Computer Science And Engineering from IIT Kharagpur.
+
+summary:
+
+==========
+
+Dr. V Ravindranath is a professor of computer science and engineering at the National Institute of Technology (NIT) in Warangal, India. He has also served as the Chair of Electronics & ICT Academy at NIT Warangal from 2016-19. Presently, he is working as the Director of IIIT, Design and Manufacturing, Kurnool in Andhra Pradesh. Dr. Ravindranath has guided three students for Ph.D. degrees and many students for M.Phil degrees in the areas of Operations Research and Statistics. He has published many papers in national and international journals and has co-authored a textbook on "Mathematical Methods" for engineering students. He is also a resource person for many faculty development programs sponsored by UGC, DST, and TEQIP, etc. that are organized at NIT Warangal and other engineering colleges. His area of research is Operations Research and Decision Sciences.

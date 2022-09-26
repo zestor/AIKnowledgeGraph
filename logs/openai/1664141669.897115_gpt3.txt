@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Print every Fool's Mate Spectrum of the complex harmonic oscilllator What is the purpose of quickly moving the speedbrake lever on the 757 during rollout?more hot questions Question feed Subscribe to RSS Question feed To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+summary:
+
+==========
+
+The purpose of quickly moving the speedbrake lever on the 757 during rollout is to print every Fool's Mate Spectrum of the complex harmonic oscilllator.

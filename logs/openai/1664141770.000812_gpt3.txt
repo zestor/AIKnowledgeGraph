@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+It can be easily applied to different applications and control system, which can reap long term benefits.Given its ability to work well with Degree of Truth, it opens many doors to modern computing.However, it is not the panacea to all the problems as it has severe limitations when it comes to accuracy and its inability to learn from its failure, as in the case of Machine Learning.Recommended Articles This is a guide to the Fuzzy Logic System.Here we discuss why and when to use the fuzzy system, with architecture, application, and last with advantages and disadvantages.You can also go through our other related articles to learn more What is Fuzzy Logic?THE CERTIFICATION NAMES ARE THE TRADEMARKS OF THEIR RESPECTIVE OWNERS.Free Data Science Course Hadoop, Data Science, Statistics & others *Please provide your correct email id.Free Data Science CourseSPSS, Data visualization with Python, Matplotlib Library, Seaborn Package *Please provide your correct email id.This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the cookie policy.
+
+summary:
+
+==========
+
+Fuzzy logic is a type of logic that allows for approximate, rather than precise, reasoning. This can be beneficial in situations where exact reasoning is difficult or impossible, such as in machine learning. However, fuzzy logic also has its limitations, including inaccuracy and the inability to learn from failures.

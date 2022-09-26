@@ -1,0 +1,10 @@
+Given this text, Write a comprehensive summary ignoring non-relevant text:
+
+text:
+Fuzzy Logic is defined as a many-valued logic form which may have truth values of variables in any real number between 0 and 1.In real life, we may come across a situation where we cant decide whether the statement is true or false.At that time, fuzzy logic offers very valuable flexibility for reasoning.Fuzzy logic algorithm helps to solve a problem after considering all available data.Then it takes the best possible decision for the given the input.The FL method imitates the way of decision making in a human which consider all the possibilities between digital values T and F. In this tutorial, you will learn What Is Fuzzy Logic?History of Fuzzy Logic Systems Characteristics of Fuzzy Logic When not to use fuzzy logic Fuzzy Logic Architecture Fuzzy Logic vs. Probability Crisp vs.Fuzzy set Theory Fuzzy Logic Examples Application Areas of Fuzzy Logic Advantages of Fuzzy Logic System Disadvantages of Fuzzy Logic Systems History of Fuzzy Logic Systems Although, the concept of fuzzy logic had been studied since the 1920s.
+
+summary:
+
+==========
+
+Fuzzy logic is a many-valued logic form which may have truth values of variables in any real number between 0 and 1. It is useful in situations where it is difficult to decide whether a statement is true or false. The fuzzy logic algorithm helps to solve a problem after considering all available data and takes the best possible decision for the given input. The FL method imitates the way of decision making in a human which considers all the possibilities between digital values T and F. Some advantages of fuzzy logic systems are that they are more efficient and accurate than other logic systems and they can handle more complex problems. However, some disadvantages of fuzzy logic systems are that they can be difficult to understand and implement.
